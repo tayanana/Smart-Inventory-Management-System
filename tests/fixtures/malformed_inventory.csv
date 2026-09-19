@@ -1,0 +1,10 @@
+sku_vin,description,stock_quantity,supplier_id
+OIL_FILTER,Mann oil filter,12,MANN
+TOO_FEW_FIELDS,oops
+BAD_STOCK,Widget,abc,MANN
+,Empty ID,1,MANN
+WBAI2345678901234,VIN contains I,1,MANN
+GOOD_PAD,Front brake pad,8,MANN
+OIL_FILTER,Duplicate SKU,3,MANN
+NEG_STOCK,Negative, -4,MANN
+PAD_COMMA,"Pad, ceramic",3,MANN
