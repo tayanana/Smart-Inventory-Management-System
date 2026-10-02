@@ -1,0 +1,6 @@
+supplier_id,name,contact
+MANN,Mann+Hummel,filters@mann.example
+BAD_ONLY_TWO
+,Empty ID,x
+MANN,Duplicate supplier,other@example
+BOSCH,Bosch Automotive,parts@bosch.example
